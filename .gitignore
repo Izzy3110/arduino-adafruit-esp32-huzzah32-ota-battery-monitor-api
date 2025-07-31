@@ -1,0 +1,4 @@
+.pio
+lib/README
+test/README
+include/secrets.h
